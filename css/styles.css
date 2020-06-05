@@ -24,7 +24,7 @@ body {
 
 .parallax__line_3d {
     transform: rotateY(0.055deg) scale(0.7);
-    margin-left: 320px;
+    margin-left: 25%;
     margin-bottom: 150px;
 }
 
